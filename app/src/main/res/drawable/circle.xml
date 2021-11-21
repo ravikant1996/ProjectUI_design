@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape
+            android:innerRadiusRatio="2.5"
+            android:shape="ring"
+            android:thickness="12dp"
+            android:tint="#20524135"
+            android:useLevel="false" />
+    </item>
+    <item>
+        <shape
+            android:innerRadiusRatio="2.5"
+            android:shape="ring"
+            android:thickness="12dp"
+            android:useLevel="true">
+            <solid android:color="@color/progressBar" />
+        </shape>
+    </item>
+</layer-list>

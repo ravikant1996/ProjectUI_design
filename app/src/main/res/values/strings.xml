@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProjectUI</string>
+    <string name="page_1">Page 1</string>
+    <string name="page_2">Page 2</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="page_5">Page 5</string>
+    <string name="exams">Exams</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="classroom">
+        <item>Data Structure</item>
+        <item>Data Science</item>
+        <item>Core Java</item>
+        <item>Network Security</item>
+        <item>Android Framework</item>
+    </string-array>
+</resources>

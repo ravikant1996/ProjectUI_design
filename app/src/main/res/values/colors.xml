@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="colorPrimary">#733D47</color>
+    <color name="colorPrimaryLight">#BF9B9B</color>
+    <color name="green">#1AAE02</color>
+    <color name="progressBar">#18AC38</color>
+    <color name="progressBarNotFilled">#F7F7F7</color>
+    <color name="progressBarText">#0B621E</color>
+    <color name="bellColor">#004A76</color>
+    <color name="grey">#696969</color>
+    <color name="background">#E5E5E5</color>
+    <color name="background_card1">#F9F9F9</color>
+    <color name="background_editText">#F1F1F1</color>
+    <color name="classColor">#8D8D8D</color>
+    <color name="classColorValue">#1D1D1D</color>
+    <color name="notificationColor">#36297CAA</color>
+    <color name="color2">#676767</color>
+    <color name="hintColor2">#A4A4A4</color>
+    <color name="editTextColor1">#4DBF9B9B</color>
+    <color name="optionEditText">#BF9B9B</color>
+    <color name="editTextColor2">#A1F2D8D5</color>
+    <color name="optionNo">#F2D8D5</color>
+    <color name="btnColor">#26733D47</color>
+</resources>
